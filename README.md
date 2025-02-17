@@ -19,7 +19,7 @@ Follow these steps to set up the monitoring stack on your server:
 
 2. **Build and run the Docker containers**:
     ```sh
-    sudo docker-compose up -d
+    sudo docker compose up -d
     ```
     This will take a few minutes to download all images and build the containers.
 
